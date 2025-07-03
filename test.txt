@@ -1,4 +1,5 @@
 nhung dong code dau tien cua dua an zama resource 
 sua lan thu nhat voi 1 so thay doi nho
 bo sung them tinh nang plugin moi
+ho tro UI nguoi dung va trai nghiem UX nguoi dung 
 
